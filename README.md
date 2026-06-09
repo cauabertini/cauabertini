@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+Cauã+Bertini+👋;Desenvolvedor+em+formação;Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Cauã+Bertini+👋;Desenvolvedor+em+formação;Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,8 +53,8 @@ Atualmente buscando minha **primeira oportunidade como desenvolvedor** — motiv
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauabertini&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauabertini&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=cauabertini&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cauabertini&theme=tokyonight)
 
 </div>
 
