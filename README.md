@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Cauã+Bertini+👋;Desenvolvedor+em+formação;Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Cauã+Bertini+👋;Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
 </div>
 
