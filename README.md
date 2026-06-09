@@ -53,8 +53,8 @@ Atualmente buscando minha **primeira oportunidade como desenvolvedor** — motiv
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caubertini&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caubertini&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauabertini&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauabertini&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -64,8 +64,8 @@ Atualmente buscando minha **primeira oportunidade como desenvolvedor** — motiv
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caua-mathias-bertini/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caua.mbertini@gmail.com)
 
 </div>
 
